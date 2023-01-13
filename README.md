@@ -1,0 +1,2 @@
+### Stencil React components library for themeforest - app (https://github.com/IgorVaschenko/themeforest)
+### Build from stencil-themeforest-design-system (https://github.com/IgorVaschenko/stencil-themeforest-design-system)

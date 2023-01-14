@@ -4601,10 +4601,10 @@ test-exclude@^4.2.1:
     read-pkg-up "^1.0.1"
     require-main-filename "^1.0.1"
 
-themeforest-design-system@^1.1.8:
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/themeforest-design-system/-/themeforest-design-system-1.1.8.tgz#1e4bff5d9701687c295d900fb7ae4b3b27c2abfa"
-  integrity sha512-qQ5lVtD7Wo4KQXoQPqWDtU/JGf7BnnoVCHEfvKao9TLQb/IX2HWeBRXfF3uyhFt0kUhLxZfpuuWQZ3FI4ADjtQ==
+themeforest-design-system@^1.1.9:
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/themeforest-design-system/-/themeforest-design-system-1.1.9.tgz#404a88fa49025f05b125d12d9fd163749232fb24"
+  integrity sha512-XLU034u+68rB0qBkAY5rPPTix1dCeikvEiqnfEwGPY+sYcc91JssEKxXBj537kxRyskspXlqbSs7RDxRRPLe4Q==
   dependencies:
     "@stencil/core" "^2.13.0"
     "@stencil/react-output-target" "^0.3.1"
